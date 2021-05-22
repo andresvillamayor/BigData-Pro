@@ -2,5 +2,5 @@
 Proyecto de Big Data 
 Andres Villamayor 
 ***
-Utilizando pandas
-Soporte de vectores (clasificacion) 
+- Utilizando pandas
+- Soporte de vectores (clasificacion) 
