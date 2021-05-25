@@ -4,3 +4,6 @@ Andres Villamayor
 ***
 - Utilizando pandas
 - Soporte de vectores (clasificacion) 
+- - SVM 
+- - kMeans
+
